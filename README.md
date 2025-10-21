@@ -64,8 +64,8 @@ Performed business queries on the cleaned dataset to understand trends and KPIs.
 - Discount impact on profitability
 - Top products and customer segments
 
-📂 File: Superstore_Sales_Analysis.pbix
-📄 Exported Report: Superstore_Sales_Analysis.pdf
+📂 File: superstoresales.pbix
+📄 Exported Report: superstoresales.pdf
 
 ---
 
